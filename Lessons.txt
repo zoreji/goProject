@@ -1,0 +1,8 @@
+1 - basic syntax, library and packages
+2 - basic operator
+3 - if and else statements
+4 - function and types
+5 - methods and interfaces
+6 - Concurrency
+
+final - make a basic fibonacci program going to 100 000
